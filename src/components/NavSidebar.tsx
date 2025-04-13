@@ -82,7 +82,7 @@ export function NavSidebar({ isAdmin = false }: NavSidebarProps) {
 
   return (
     <div className="h-screen bg-sidebar w-64 flex flex-col border-r border-sidebar-border">
-        <div className="p-4">
+      <div className="p-4">
         <div className="flex items-center gap-2 px-2">
           <div className="h-8 w-8 rounded-full bg-gradient-to-br from-aptos-blue to-aptos-purple flex items-center justify-center">
             <span className="text-white font-bold text-sm">AE</span>
@@ -94,9 +94,10 @@ export function NavSidebar({ isAdmin = false }: NavSidebarProps) {
         <div className="flex items-center justify-center">
           <ThemeToggle />
         </div>
-        </div>
-        
       </div>
+        </div>
+        
+      
       </div>
 
       <div className="flex-1 py-4 space-y-1 px-3">
@@ -129,12 +130,7 @@ export function NavSidebar({ isAdmin = false }: NavSidebarProps) {
         </div>
       )}
 
-      <div className="px-4 pt-2">
-        <div className="flex items-center justify-center">
-          <ThemeToggle />
-        </div>
-      </div>
-
+      
       <div className="p-4 border-t border-sidebar-border mt-auto">
         <button
           onClick={handleLogout}
