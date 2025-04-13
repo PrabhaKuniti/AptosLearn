@@ -64,14 +64,14 @@ Project Features:
 #### **Outcome:**  
 The platform drives learning, incentivizes knowledge acquisition, and promotes blockchain adoption through gamified modules and reward systems.![user signin](https://github.com/user-attachments/assets/85339598-d39e-4b10-bc87-e1834e1e52ac)
 ![admin signin](https://github.com/user-attachments/assets/442b3207-b5e1-4b4f-a745-f6d3c7f7e8cf)
-![dashboard (2)](https://github.com/user-attachments/assets/50ce63e8-5fd0-4a8b-a092-14b6a9a55007)
+![Dashboard (3)](https://github.com/user-attachments/assets/18999543-7400-42ce-97ad-6ad5d4ef3682)
 
 ![courses](https://github.com/user-attachments/assets/e3e73a4e-c61c-4ec5-a2ab-b65c3db221de)
 ![leaderboard](https://github.com/user-attachments/assets/f1a38679-2eaf-4d2d-b9e1-b58d4e9c1c92)
-![certificates](https://github.com/user-attachments/assets/e6a94d2d-fe50-446f-9eb0-14fb76465064)
+![certificate](https://github.com/user-attachments/assets/03e0f007-65dc-436e-85bd-45a8217c7e2a)
 
-![resume](https://github.com/user-attachments/assets/1ac58b49-2496-49b8-a95f-cd98fbc5771f)
-![resume edit](https://github.com/user-attachments/assets/ae0c6972-3926-4f50-b473-3aa76551d604)
+![resume page](https://github.com/user-attachments/assets/afa5f33d-cf7e-4208-8ed0-0ea57d02483e)
+![resume edit (2)](https://github.com/user-attachments/assets/54517fb2-a726-43a1-902a-792ee413b5c6)
 ![Admin Dashboard](https://github.com/user-attachments/assets/a20c6087-5519-475d-a4aa-a61405520ad2)
 ![platform statistics](https://github.com/user-attachments/assets/121873b5-456c-49a6-8918-1ee29b11c296)
 ![course management](https://github.com/user-attachments/assets/e5e9d642-7a8d-4c46-89bc-002ea494d706)
